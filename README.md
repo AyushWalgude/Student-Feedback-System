@@ -18,20 +18,20 @@ A full-stack web application for collecting and managing student feedback on fac
 - **Database:** MySQL
 
 ## 🚀 Quick Start
-\`\`\`bash
+bash
 pip install -r requirements.txt
 mysql -u root -p < database.sql
 streamlit run app.py
-\`\`\`
+
 
 ## 📁 Project Structure
-\`\`\`
+
 student_feedback/
 ├── app.py            # Main entry point
 ├── db.py             # Database connection
 ├── auth.py           # Login & registration
 └── pages/            # Modular page components
-\`\`\`
+
 
 ## 📄 Documentation
 Full project documentation available in `StudentFeedbackSystem_Documentation.docx`
