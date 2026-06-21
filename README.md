@@ -18,7 +18,7 @@ A full-stack web application for collecting and managing student feedback on fac
 - **Database:** MySQL
 
 ## 🚀 Quick Start
-bash
+bash<br>
 pip install -r requirements.txt<br>
 mysql -u root -p < database.sql<br>
 streamlit run app.py<br>
