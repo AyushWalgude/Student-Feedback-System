@@ -26,11 +26,11 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
-student_feedback/
-├── app.py            # Main entry point
-├── db.py             # Database connection
-├── auth.py           # Login & registration
-└── pages/            # Modular page components
+student_feedback/<br>
+├── app.py            # Main entry point<br>
+├── db.py             # Database connection<br>
+├── auth.py           # Login & registration<br>
+└── pages/            # Modular page components<br>
 
 
 ## 📄 Documentation
